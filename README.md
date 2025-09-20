@@ -1,12 +1,14 @@
-# 🌐 Lakshmi Roshini Kotha - Portfolio Website
+# 🌐 Portfolio Website - Lakshmi Roshini Kotha
 
 This repository contains the source code for my personal **portfolio website**, built using **HTML, CSS, and JavaScript**.  
-The website showcases my **skills, projects, certifications, and contact information**.
+The site highlights my **skills, projects, certifications, and contact details**.
 
 ---
 
 ## 🚀 Live Demo
-🔗 [View Portfolio](https://<lakshmiroshinikotha>.github.io/<My-Portfolio>/)
+[![Live Demo](https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge&logo=github)](https://lakshmiroshinikotha.github.io/My-Portfolio/)
 
 ---
+
+
 
