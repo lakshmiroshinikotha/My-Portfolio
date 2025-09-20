@@ -6,7 +6,7 @@ The website showcases my **skills, projects, certifications, and contact informa
 ---
 
 ## 🚀 Live Demo
-🔗 [View Portfolio](https://<your-username>.github.io/<repo-name>/)
+🔗 [View Portfolio](https://<lakshmiroshinikotha>.github.io/<My-Portfolio>/)
 
 ---
 
